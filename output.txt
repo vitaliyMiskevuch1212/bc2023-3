@@ -1,0 +1,5 @@
+Amounts due to non-bank financial institutions:28336.0999
+Amounts due to individuals (including saving (deposit) certificates):619115.1243
+Banks' liabilities in foreign currency:614403.2793
+Term deposits of other banks and loans received from other banks:23254.9761
+Amounts due to corporates:523482.8815
